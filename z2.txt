@@ -1,1 +1,8 @@
+
 modified z2.txt
+
+modified z2,rxt in branch2
+
+
+
+merge conflictttt resolved
